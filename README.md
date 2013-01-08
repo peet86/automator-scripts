@@ -24,15 +24,17 @@ Requirements: ssl public key based login to the remote machine
  
 
 
-HOW TO USE:
+INSTALL & RUN:
 ===========
 Every script is a ready to run app package, but you should set some parameters (ex: your server address, etc.) in the source code. 
 Don't worry, you can simply edit the source with your Automator application:
-0. Run Applications / Automator
-1. File > Open
-2. Modify parameters
-3. File > Save 
-4. Run.
+
+- 1. Move the downloaded app to the Applications folder.
+- 2. Run Applications / Automator
+- 3. File > Open - select the app
+- 4. Modify parameters
+- 5. File > Save 
+- 6. Run.
 
 
 License: 
