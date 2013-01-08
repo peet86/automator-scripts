@@ -5,16 +5,21 @@ Most of the scripts are very simple apple/bash snipet in an Automator generated 
 Feel free to use or fork them!
 
 
-Apache Restart 
+
+Restart Apache 
 ---------------
 Restart your OSX apache daemon with just one click!
 The apachectl command require admin privileges, the app will ask for your password.
 
 
-SSHD - mount your remote hard drive (through ssh) 
+
+SSHD Mount - mount your remote folder (through ssh) 
 --------------------------------------------------
 Mount your server's file system or a remote path like an USB drive!
-Requirements: ssl public key based login to the remote machine
+Requirements: 
+- ssl public key based login to the remote machine
+- installed Fusion drivers. How to: http://www.vargapeter.com/blog/2013/01/tavoli-fajrendszer-ssh-n-keresztuel-mac-osx.html
+
 
 
 SSH 
@@ -22,6 +27,7 @@ SSH
 Very simple Automator app to log in remote machines via ssh. 
 Requirements: ssl public key based login to the remote machine
  
+
 
 
 INSTALL & RUN:
